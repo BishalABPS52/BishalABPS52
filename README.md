@@ -1,5 +1,5 @@
 # 💫 About Me:
-Let’s create, solve, and explore together — one line of code at a time. Always up for new challenges and learning!
+Let’s create, solve, and explore together with one line of code at a time. Always up for new challenges and learning!
 
 In a blankspace, Let's Code.
 
