@@ -64,7 +64,45 @@ Let’s create, solve, and explore together with one line of code at a time. Alw
 
 
 ---
-  
+  ## 🌟 **Skills & Technologies**
+
+### **Web Development**:
+- **HTML5** & **CSS** for building structured, well-styled webpages.
+- **JavaScript** for interactivity and **React** for creating dynamic, single-page applications.
+- **TailwindCSS** for fast, customizable UI development with utility-first CSS classes.
+- **Next.js** for building performant, server-side rendered React applications.
+- **PHP** for backend scripting, and **MySQL** for managing databases.
+
+### **Game Development**:
+- Proficient in **C++** for building high-performance games.
+- **SFML** for creating 2D games with smooth gameplay and interactive features.
+- Developed **Connect Four** game with full functionality, including a user-friendly interface, game logic, and pause/resume features.
+
+### **Data Science & Analytics**:
+- **Python** for data analysis and machine learning.
+- **NumPy**, **Matplotlib**, and **Seaborn** for statistical computing, data visualization, and analysis.
+- **Jupyter Notebooks** for creating interactive data science workflows.
+
+### **Local Development & Backend**:
+- Set up **XAMPP** for local development and testing of PHP-based applications.
+---
+
+## 🌐 **Other Tools**:
+- **Adobe Creative Suite** (Photoshop, Illustrator) for designing visual assets.
+- **Canva** for creating quick, high-quality designs for social media, presentations, and websites.
+
+---
+
+## 📚 **Ongoing Learning**:
+I am currently focusing on learning **Data Science**,**Software Development**, **Game Development**, and **Backend Technologies** deploying websites efficiently. I also work on personal projects that challenge my creativity and technical skills. Through these, I hope to further build my portfolio and contribute to the open-source community.
+
+---
+
+## 📬 **Let's Connect**:
+Feel free to reach out if you want to collaborate or talk about tech, coding, or anything else!
+
+---
+
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=BishalABPS52&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
