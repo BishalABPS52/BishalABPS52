@@ -3,38 +3,7 @@
 # 💫 About Me:
 Let’s create, solve, and explore together with one line of code at a time. Always up for new challenges and learning!
 
-# Blinking Text Animation
-
-<div id="animation">
-  <span class="word">Let's</span>
-  <span class="word">Code.</span>
-</div>
-
-<style>
-@keyframes blinkWord {
-  0% { opacity: 1; }
-  50% { opacity: 0; }
-  100% { opacity: 1; }
-}
-
-@keyframes blinkSentence {
-  0% { opacity: 1; }
-  50% { opacity: 0; }
-  100% { opacity: 1; }
-}
-
-.word {
-  font-size: 24px;
-  font-weight: bold;
-  display: inline-block;
-  animation: blinkWord 1s infinite alternate;
-}
-
-#animation {
-  animation: blinkSentence 2s infinite alternate;
-  display: inline-block;
-}
-</style>
+# In a blankspace, Let's Code.
 
 ## 🌐 Socials:
 
