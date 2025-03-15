@@ -45,7 +45,6 @@ Let’s create, solve, and explore together with one line of code at a time. Alw
   <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" height="35">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="35">
 </p>
-
 ---
 
 ## 📊 GitHub Stats:
