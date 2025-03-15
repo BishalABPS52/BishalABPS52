@@ -1,6 +1,6 @@
 # BISHAL SHRESTHA (BishalABPS52)
 
-## 💫 About Me:
+## 💫Bio
 Let’s create, solve, and explore together with one line of code at a time. Always up for new challenges and learning!
 
 ## In Blankspace, Let's Code.
