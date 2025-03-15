@@ -99,7 +99,9 @@ I am currently focusing on learning **Data Science**,**Software Development**, *
 ---
 
 ## 📬 **Let's Connect**:
-Feel free to reach out if you want to collaborate or talk about tech, coding, or anything else!
+Feel free to reach out if you want to collaborate or talk about tech, coding, or anything else!  
+You can reach me through my social media links in profile.
+
 
 ---
 
