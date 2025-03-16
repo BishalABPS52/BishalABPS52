@@ -78,10 +78,6 @@ Let’s create, solve, and explore together with one line of code at a time. Alw
 - **SFML** for creating 2D games with smooth gameplay and interactive features.
 - Developed **Connect Four** game with full functionality, including a user-friendly interface, game logic, and pause/resume features.
 
-### **Data Science & Analytics**:
-- **Python** for data analysis and machine learning.
-- **NumPy**, **Matplotlib**, and **Seaborn** for statistical computing, data visualization, and analysis.
-- **Jupyter Notebooks** for creating interactive data science workflows.
 
 ### **Local Development & Backend**:
 - Set up **XAMPP** for local development and testing of PHP-based applications.
@@ -94,8 +90,12 @@ Let’s create, solve, and explore together with one line of code at a time. Alw
 ---
 
 ## 📚 **Ongoing Learning**:
-I am currently focusing on learning **Data Science**,**Software Development**, **Game Development**, and **Backend Technologies** deploying websites efficiently. I also work on personal projects that challenge my creativity and technical skills. Through these, I hope to further build my portfolio and contribute to the open-source community.
+I am currently focusing on learning **Data Science**,**Software Development**,**Data Science**, **Game Development**, and **Backend Technologies** deploying websites efficiently. I also work on personal projects that challenge my creativity and technical skills. Through these, I hope to further build my portfolio and contribute to the open-source community.
 
+Here's What I'm doing in ### **Data Science & Analytics**:
+- **Python** for data analysis and machine learning.
+- **NumPy**, **Matplotlib**, and **Seaborn** for statistical computing, data visualization, and analysis.
+- **Jupyter Notebooks** for creating interactive data science workflows.
 ---
 
 ## 📬 **Let's Connect**:
