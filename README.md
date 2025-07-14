@@ -101,7 +101,6 @@ Here's What I'm doing in
 Feel free to reach out if you want to collaborate or talk about tech, coding, or anything else!  
 You can reach me through my social media links in profile.
 
-
 ---
 
 ## 📊 GitHub Stats:
