@@ -16,7 +16,7 @@ Let’s create, solve, and explore together with one line of code at a time. Alw
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/X-%23E4405F.svg?style=for-the-badge&logo=X&logoColor=white" height="30" onclick="window.location.href='https://x.com/BishalS85851861';">
+ <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" height="30" onclick="window.location.href='https://x.com/BishalS85851861';">
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" onclick="window.location.href='mailto:bs426808@gmail.com';">
 </p>
 
