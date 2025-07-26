@@ -16,8 +16,6 @@ Let’s create, solve, and explore together with one line of code at a time. Alw
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" height="30" onclick="window.location.href='https://reddit.com/user/ABPS52';">
-  <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" onclick="window.location.href='mailto:bs426808@gmail.com';">
 </p>
 
