@@ -42,7 +42,6 @@ Let’s create, solve, and explore together with one line of code at a time. Alw
 
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30">
-   <img src="https://img.shields.io/badge/Javascript-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30">
 </p>
 
 <p align="center">
