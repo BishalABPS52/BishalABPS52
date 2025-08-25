@@ -83,15 +83,6 @@ Let’s create, solve, and explore together with one line of code at a time. Alw
 
 ---
 
-## 📚 **Ongoing Learning**:
-I am currently focusing on learning **Data Science**,**Software Development**,**Data Science**, **Game Development**, and **Backend Technologies** deploying websites efficiently. I also work on personal projects that challenge my creativity and technical skills. Through these, I hope to further build my portfolio and contribute to the open-source community.
-Here's What I'm doing in
- ### **Data Science & Analytics**:
-- **Python** for data analysis and machine learning.
-- **NumPy**, **Matplotlib**, and **Seaborn** for statistical computing, data visualization, and analysis.
-- **Jupyter Notebooks** for creating interactive data science workflows.
----
-
 ## 📬 **Let's Connect**:
 Feel free to reach out if you want to collaborate or talk about tech, coding, or anything else!  
 You can reach me through my social media links in profile.
