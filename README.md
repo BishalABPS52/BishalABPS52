@@ -70,12 +70,6 @@ Let’s create, solve, and explore together with one line of code at a time. Alw
 ### **Game Development**:
 - Proficient in **C++** for building high-performance games.
 - **SFML** for creating 2D games with smooth gameplay and interactive features.
-- Developed **Connect Four** game with full functionality, including a user-friendly interface, game logic, and pause/resume features.
-
-
-### **Local Development & Backend**:
-- Set up **XAMPP** for local development and testing of PHP-based applications.
----
 
 ## 🌐 **Other Tools**:
 - **Adobe Creative Suite** (Photoshop, Illustrator) for designing visual assets.
