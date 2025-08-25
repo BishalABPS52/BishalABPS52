@@ -1,6 +1,5 @@
 # BISHAL SHRESTHA (BishalABPS52)
 
-## 💫Bio:
 Let’s create, solve, and explore together with one line of code at a time.  
 Always up for new challenges and learning!
 
