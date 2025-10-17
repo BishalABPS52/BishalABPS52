@@ -29,31 +29,24 @@ Always up for new challenges and learning!
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="30">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="30">
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Matplotlib-%23D55B5B.svg?style=for-the-badge&logo=matplotlib&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Seaborn-%2307B7A7.svg?style=for-the-badge&logo=seaborn&logoColor=white" height="30">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Pygame-%23A3A3A3.svg?style=for-the-badge&logo=pygame&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="30">
-
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30">
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/SQL-%2300C4CC.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="30">
-  <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/PHP-%2378B9EB.svg?style=for-the-badge&logo=php&logoColor=white" height="30">
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" height="30">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" height="30">
 </p>
 
 
