@@ -92,7 +92,7 @@ You can reach me through my social media links in profile.
 [![](https://visitcount.itsvg.in/api?id=BishalABPS52&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bs52.py)
+[![BuyMeAMoMo](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-momo&logoColor=black)](https://buymemomo.com/BishalABPS52)
 
 
 
