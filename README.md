@@ -9,7 +9,7 @@ Always up for new challenges and learning!
 
 ## 🌐 Socials:
 <p align="center">
- <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30" onclick="window.location.href='https://www.facebook.com/profile.php?id=100067072687802';">
+ <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30" onclick="window.location.href='https://www.facebook.com/bs52.py';">
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="30" onclick="window.location.href='https://www.instagram.com/bs52.py';">
  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" onclick="window.location.href='https://www.linkedin.com/in/bishal-shrestha-2b05b1302/';">
  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="30" onclick="window.location.href='https://discord.gg/_bishalshrestha52';">
@@ -92,7 +92,8 @@ You can reach me through my social media links in profile.
 [![](https://visitcount.itsvg.in/api?id=BishalABPS52&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
-[![BuyMeAMoMo](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-momo&logoColor=black)](https://buymemomo.com/BishalABPS52)
+[![BuyMeAMoMo](https://img.shields.io/badge/Buy%20Me%20a%20MoMo-ffdd00?style=for-the-badge&logo=ko-fi&logoColor=black)](https://buymemomo.com/BishalABPS52)
+
 
 
 
