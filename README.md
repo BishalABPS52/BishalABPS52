@@ -78,33 +78,40 @@ You can reach me through my social media links in profile.
 
 ## 📊 GitHub Stats
 
-<!-- GitHub main stats -->
-![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BishalABPS52&theme=dark&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only)
-![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BishalABPS52&theme=default&hide_border=false&include_all_commits=true&count_private=true#gh-light-mode-only)
+<!-- Dark Mode Stats -->
+![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BishalABPS52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb#gh-dark-mode-only)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BishalABPS52&theme=dark&hide_border=false&background=0d1117&fire=ffab70#gh-dark-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BishalABPS52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=58a6ff#gh-dark-mode-only)
 
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BishalABPS52&theme=dark&hide_border=false#gh-dark-mode-only)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BishalABPS52&theme=default&hide_border=false#gh-light-mode-only)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BishalABPS52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BishalABPS52&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)
+<!-- Light Mode Stats -->
+![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BishalABPS52&theme=default&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&bg_color=ffffff&title_color=0366d6&icon_color=1f6feb#gh-light-mode-only)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BishalABPS52&theme=default&hide_border=false&background=ffffff&fire=ff6700#gh-light-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BishalABPS52&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=ffffff&title_color=0366d6#gh-light-mode-only)
 
 ---
 
 ## 🏆 GitHub Trophies
+
+<!-- Dark Mode Trophies -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BishalABPS52&theme=radical&no-frame=true&no-bg=true&margin-w=4#gh-dark-mode-only)
+
+<!-- Light Mode Trophies -->
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BishalABPS52&theme=default&no-frame=true&no-bg=true&margin-w=4#gh-light-mode-only)
 
 ---
 
 ### 🔝 Top Contributed Repos
+
+<!-- Dark Mode Top Repos -->
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=BishalABPS52&limit=5&theme=transparent&combine_all_yearly_contributions=true&bg_color=0d1117#gh-dark-mode-only)
+
+<!-- Light Mode Top Repos -->
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=BishalABPS52&limit=5&theme=transparent&combine_all_yearly_contributions=true&bg_color=ffffff#gh-light-mode-only)
 
 ---
 
 ### 👁️ Profile Visit Count
+
 [![Profile Views](https://komarev.com/ghpvc/?username=BishalABPS52&color=blue&style=flat-square)](https://github.com/BishalABPS52)
 
 ## 💰 You can help me by Donating
