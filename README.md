@@ -76,19 +76,36 @@ You can reach me through my social media links in profile.
 
 ---
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BishalABPS52&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=BishalABPS52&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BishalABPS52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BishalABPS52&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<!-- GitHub main stats -->
+![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BishalABPS52&theme=dark&hide_border=false&include_all_commits=true&count_private=true#gh-dark-mode-only)
+![Bishal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BishalABPS52&theme=default&hide_border=false&include_all_commits=true&count_private=true#gh-light-mode-only)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=BishalABPS52&limit=5&theme=transparent&combine_all_yearly_contributions=true)
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BishalABPS52&theme=dark&hide_border=false#gh-dark-mode-only)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BishalABPS52&theme=default&hide_border=false#gh-light-mode-only)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BishalABPS52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-dark-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BishalABPS52&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact#gh-light-mode-only)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BishalABPS52&icon=0&color=1)](https://visitcount.itsvg.in)
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BishalABPS52&theme=radical&no-frame=true&no-bg=true&margin-w=4#gh-dark-mode-only)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=BishalABPS52&theme=default&no-frame=true&no-bg=true&margin-w=4#gh-light-mode-only)
+
+---
+
+### 🔝 Top Contributed Repos
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=BishalABPS52&limit=5&theme=transparent&combine_all_yearly_contributions=true&bg_color=0d1117#gh-dark-mode-only)
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=BishalABPS52&limit=5&theme=transparent&combine_all_yearly_contributions=true&bg_color=ffffff#gh-light-mode-only)
+
+---
+
+### 👁️ Profile Visit Count
+[![Profile Views](https://komarev.com/ghpvc/?username=BishalABPS52&color=blue&style=flat-square)](https://github.com/BishalABPS52)
 
 ## 💰 You can help me by Donating
 [![BuyMeAMoMo](https://img.shields.io/badge/Buy%20Me%20a%20MoMo-ffdd00?style=for-the-badge&logo=ko-fi&logoColor=black)](https://buymemomo.com/BishalABPS52)
