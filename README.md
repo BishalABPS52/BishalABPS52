@@ -7,21 +7,6 @@ Always up for new challenges and learning!
 
 ---
 
-## 🌐 Socials:
-<p align="center">
- <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="30" onclick="window.location.href='https://www.facebook.com/bs52.py';">
- <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" height="30" onclick="window.location.href='https://www.instagram.com/bs52.py';">
- <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30" onclick="window.location.href='https://www.linkedin.com/in/bishal-shrestha-2b05b1302/';">
- <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" height="30" onclick="window.location.href='https://discord.gg/_bishalshrestha52';">
-</p>
-
-<p align="center">
- <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" height="30" onclick="window.location.href='https://x.com/BishalS85851861';">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30" onclick="window.location.href='mailto:bs426808@gmail.com';">
-</p>
-
----
-
 ## 💻 Tech Stack:
 
 <p align="center">
