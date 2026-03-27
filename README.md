@@ -77,7 +77,7 @@ You can reach me through my social media links in profile.
 
 ---
 
-[![BuyMeAMoMo](https://img.shields.io/badge/Buy%20Me%20a%20MoMo-ffdd00?style=for-the-badge&logo=ko-fi&logoColor=black)](https://buymemomo.com/BishalABPS52)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=ko-fi&logoColor=black)](https://buymemomo.com/BishalABPS52)
 
 
 
