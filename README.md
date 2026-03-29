@@ -49,19 +49,19 @@ Always up for new challenges and learning!
 - Proficient in **C++** for building high-performance games.
 - **SFML** for creating 2D games with smooth gameplay and interactive features.
 
-## 🌐 **Other Tools**:
+## **Other Tools**:
 - **Adobe** (Photoshop, Premier Pro) for designing visual assets.
 - **Canva** for creating quick, high-quality designs for social media, presentations, and websites.
 
 ---
 
-## 📬 **Let's Connect**:
+## **Let's Connect**:
 Feel free to reach out if you want to collaborate or talk about tech, coding, or anything else!  
 You can reach me through my social media links in profile.
 
 ---
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=BishalABPS52&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
