@@ -53,6 +53,7 @@ Always up for new challenges and learning!
 ## **Other Tools**:
 - **Adobe** (Photoshop, Premier Pro) for designing visual assets.
 - **Canva** for creating quick, high-quality designs for social media, presentations, and websites.
+- **Git** for version control.
 
 ---
 
