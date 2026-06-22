@@ -40,11 +40,11 @@ Always up for new challenges and learning!
   ## **Skills & Technologies**
 
 ### **Web Development**:
-- **HTML5** & **CSS** for building structured, well-styled webpages.
+- **HTML5** & **React** for building structured, well-styled webpages.
 - **JavaScript** for interactivity and **React** for creating dynamic, single-page applications.
-- **TailwindCSS** for fast, customizable UI development with utility-first CSS classes.
+- **TailwindCSS** & **CSS** for fast, customizable UI development with utility-first CSS classes.
 - **Next.js** for building performant, server-side rendered React applications.
-- **PHP** for backend scripting, and **MySQL** for managing databases.
+- **FastAPI**,**Django** & **PHP** for backend scripting, and **PostgresSQL**,**MongoDB** & **MySQL** for managing databases.
 
 ### **Game Development**:
 - Proficient in **C++** for building high-performance games.
@@ -66,12 +66,10 @@ You can reach me through my social media links in profile.
 ## GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=BishalABPS52&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BishalABPS52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BishalABPS52&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BishalABPS52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=ko-fi&logoColor=black)](https://buymemomo.com/BishalABPS52)
+[![BuyMeAMomo](https://img.shields.io/badge/Buy%20Me%20a%20Momo-ffdd00?style=for-the-badge&logo=ko-fi&logoColor=black)](https://buymemomo.com/BishalABPS52)
 
 
 
