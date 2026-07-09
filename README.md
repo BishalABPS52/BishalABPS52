@@ -98,10 +98,9 @@ I believe the best way to improve as a developer is to stay curious, write code,
 ## Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,figma,vercel,linux,supabase,"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF"/>
+<img src="https://img.shields.io/badge/Adobe_Photoshop-001E36?style=for-the-badge&logo=adobe&logoColor=31A8FF"/>
 </p>
 
 ---
