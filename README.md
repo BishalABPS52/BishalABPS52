@@ -8,7 +8,7 @@
 "Building software through continuous learning, practical engineering, and real-world projects."
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Frontend+Developer;Machine+Learning+Enthusiast;Computer+Explorer;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Frontend+Developer;Software+Engineering+Enthusiast;Machine+Learning;Always+Learning+Something+New)](https://git.io/typing-svg)
 
 <p>
 <a href="https://linkedin.com/in/bishalshrestha52">
